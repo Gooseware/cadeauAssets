@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{"+QwD":function(n,e,a){n.exports={container:"Universal__container--GKcfE"}},oQUn:function(n,e,a){"use strict";a.r(e);var t=a("q1tI"),c=a.n(t),o=a("+QwD"),r=a.n(o);e.default=function(){return c.a.createElement("div",{className:r.a.container},c.a.createElement("span",null,"Universal -- loaded!!"))}}}]);
+//# sourceMappingURL=Universal.2b87c6e71f07f253edf9.js.map
